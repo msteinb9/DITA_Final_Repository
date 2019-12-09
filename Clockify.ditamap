@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Clockify</title>
+    <topicref href="Concepts/clockify-intro-concept.dita" audience="businessowner employee"/>
+    <topicref href="References/glossary-reference.dita" audience="businessowner employee"/>
+    <topicref href="References/intended-users-reference.dita" audience="businessowner employee"/>
+    <topicref href="Concepts/kickoff-concept.dita" audience="businessowner employee">
+        <topicref href="Tasks/make-an-account-task.dita" audience="businessowner employee">
+            <topicref href="References/paid-options-reference.dita" audience="businessowner"/>
+        </topicref>
+        <topichead navtitle="Downloading Clockify for Desktop" audience="businessowner employee">
+            <topicref href="Concepts/downloading-clockify-mac.dita"
+                audience="businessowner employee"/>
+            <topicref href="Concepts/downloading-clockify-windows.dita"
+                audience="businessowner employee"/>
+        </topichead>
+    </topicref>
+    <topicref href="Concepts/time-tracker-overview.dita" audience="businessowner employee">
+        <topichead navtitle="Using Time Tacker Tool" audience="businessowner employee">
+            <topicref href="Tasks/adding-time-entries-task.dita" audience="businessowner employee"/>
+            <topicref href="Tasks/edit-time-task.dita" audience="businessowner employee"/>
+        </topichead>
+    </topicref>
+    <topicref href="Concepts/timesheet-overview.dita" audience="businessowner employee">
+        <topichead navtitle="Using The Timesheet" audience="businessowner employee">
+            <topicref href="Tasks/edit-work-hours-task.dita" audience="businessowner employee"/>
+            <topicref href="Tasks/changing-weeks-task.dita" audience="businessowner employee"/>
+            <topicref href="Concepts/templates-concept.dita" audience="businessowner employee"/>
+        </topichead>
+    </topicref>
+    <topicref href="Concepts/dashboard-overview.dita" audience="businessowner employee">
+        <topichead navtitle="Navigating the Dashboard" audience="businessowner employee">
+            <topicref href="Tasks/viewing-activity-task.dita" audience="businessowner employee"/>
+            <topicref href="Tasks/view-team-task.dita" audience="businessowner employee"/>
+        </topichead>
+    </topicref>
+    <topicref href="Concepts/teams-overview.dita" audience="businessowner employee">
+        <topichead navtitle="Teams" audience="businessowner employee">
+            <topicref href="Tasks/add-team-members-task.dita" audience="businessowner employee"/>
+            <topicref href="Tasks/team-permissions-task.dita" audience="businessowner"/>
+            <topicref href="Tasks/creating-user-groups-task.dita" audience="businessowner"/>
+            <topicref href="Tasks/assign-groups-to-projects-task.dita" audience="businessowner"/>
+            <topicref href="Tasks/remove-users-task.dita" audience="businessowner"/>
+            <topicref href="Tasks/create-workspace-task.dita" audience="businessowner employee"/>
+            <topicref href="Tasks/edit-workspaces-task.dita" audience="businessowner"/>
+            <topicref href="Tasks/leave-workspace-task.dita" audience="businessowner"/>
+        </topichead>
+    </topicref>
+    <topicref href="Concepts/reports-overview.dita" audience="businessowner employee">
+        <topichead navtitle="Viewing Reports" audience="businessowner employee">
+            <topicref href="Concepts/viewing-your-reports.dita" audience="businessowner employee"/>
+            <topicref href="Tasks/summary-report-task.dita" audience="businessowner employee"/>
+            <topicref href="Tasks/detailed-report-task.dita" audience="businessowner employee"/>
+            <topicref href="Tasks/weekly-report-task.dita" audience="businessowner employee"/>
+            <topicref href="Tasks/export-reports-task.dita" audience="businessowner employee"/>
+        </topichead>
+    </topicref>
+    <topicref href="References/resources-reference.dita" audience="businessowner employee"/>
+</map>

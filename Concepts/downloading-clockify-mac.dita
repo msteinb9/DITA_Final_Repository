@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="downloading-desktop-trello-mac">
+    <title>Downloading Clockify App for Mac</title>
+    <abstract>Required Materials<ul id="ul_z4d_3pj_sjb">
+            <li>Working Mac laptop/ desktop</li>
+            <li>OS X 10.12 or later, 64-bit processor</li>
+            <li>Apple store account</li>
+        </ul></abstract>
+    <taskbody>
+        <steps id="steps_qnd_4pj_sjb">
+            <step>
+                <cmd>To download the Clockify app on Mac you will need an apple account, if you do
+                    not set one up before proceeding.</cmd>
+            </step>
+            <step>
+                <cmd>Search for Clockify in the apple store.</cmd>
+            </step>
+            <step>
+                <cmd>Find the version you need. </cmd>
+            </step>
+            <step>
+                <cmd>Select the dowload button in the top right corner.</cmd>
+            </step>
+            <step>
+                <cmd>After it is finished downloading, run the application and login or sign
+                    up.</cmd>
+            </step>
+            <step>
+                <cmd>You now have access Clockify from your Mac desktop instead of the web
+                    browser.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

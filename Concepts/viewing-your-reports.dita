@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_list_tsk">
+    <title>Viewing Your Reports</title>
+    <taskbody>
+        <context> Reports show you a breakdown of team productivity.</context>
+        <steps>
+            <step>
+                <cmd>Navigate to the reports page. </cmd>
+            </step>
+            <step>
+                <cmd>The page shows you the current weeks hours by default.</cmd>
+            </step>
+            <step>
+                <cmd>To change the viewable time period select the dropdown menu in the upper right
+                        corner.<image
+                        href="../media/Screen%20Shot%202019-12-09%20at%208.22.19%20AM.png"
+                        id="image_tyw_yg4_zjb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

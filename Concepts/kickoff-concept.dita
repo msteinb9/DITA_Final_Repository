@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="getting-started-con">
+    <title>Kickoff</title>
+    <conbody>
+        <p>By starting an account with Clockify you will have access to the time tracker tool, along
+            with team creation, project management, report tracking, and many other useful features.
+            This will allow you to view the productivity of individuals, teams, and projects within
+            your Clockify account.</p>
+        <fig id="fig_bt4_m2b_yjb">
+            <image placement="break"
+                href="../media/Screen%20Shot%202019-12-08%20at%206.52.48%20PM.png" scale="50"
+                align="left" id="image_ct4_m2b_yjb"/>
+        </fig>
+        <p>Starting a team or project will allow you to track the process of multiple people at
+            anytime. This is a useful way to stay organized and keep everone connected. The owner
+            can also choose how much access to grant to other team members. Filling out report
+            summarys will help ensure that projects are organized and tracked properly, as well as
+            staying up to date with progress information. You can customize your organization
+            according to your needs as you get more familiar with Clockify.</p>
+    </conbody>
+</concept>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_card_tsk">
+    <title>Team Permissions</title>
+    <taskbody>
+        <context>Easily control how much access your team members have in your projects.</context>
+        <steps>
+            <step>
+                <cmd>Navigate to the team page.</cmd>
+            </step>
+            <step>
+                <cmd>Select the team member you'd like to edit.</cmd>
+            </step>
+            <step>
+                <cmd>Control their hourly pay by editting the box next to USD.</cmd>
+            </step>
+            <step>
+                <cmd>Control their project access settings by clicking the plus sign on the far
+                        right.<image
+                        href="../media/Screen%20Shot%202019-12-08%20at%2011.27.33%20PM.png"
+                        id="image_xfz_s4l_zjb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

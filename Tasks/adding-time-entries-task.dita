@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_list_tsk">
+    <title>Adding Time Entries</title>
+    <taskbody>
+        <context> The following steps will show you how to add time entries in Clockify.</context>
+        <steps>
+            <step>
+                <cmd>The first page you will see when you sign in to your Clockify account is the
+                    time tracker page.(Figure 1). <image
+                        href="../media/Screen%20Shot%202019-12-08%20at%208.38.38%20PM.png"
+                        id="image_jn2_psk_zjb"/></cmd>
+            </step>
+            <step>
+                <cmd>You will have a blank project waiting for you. Every project needs a title
+                    before you can begin. Click the title section and give your project a
+                    name.</cmd>
+            </step>
+            <step>
+                <cmd>To the right of the start button there are two icons that control timer mode or
+                    manual entries.</cmd>
+            </step>
+            <step>
+                <cmd>When you are ready to track time click the blue start button.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

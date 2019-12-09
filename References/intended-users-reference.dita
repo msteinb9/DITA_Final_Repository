@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_bsg_ptn_vjb">
+    <title>Users</title>
+    <shortdesc>Who this guide/product is for.</shortdesc>
+    <refbody> 
+        <section>Buisness owners &amp; employees<image
+                href="../media/Screen%20Shot%202019-12-09%20at%2010.35.24%20AM.png"
+                id="image_j5t_ny4_zjb"/></section>
+    </refbody>
+</reference>

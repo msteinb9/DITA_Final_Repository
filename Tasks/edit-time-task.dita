@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_card_tsk">
+    <title>Editting Tracked Time</title>
+    <taskbody>
+        <context>
+            <p>Edditing your time entries is easy to navigate all in one place.<image
+                    href="../media/Screen%20Shot%202019-12-08%20at%209.09.13%20PM.png"
+                    id="image_gf5_4wk_zjb"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Simply click on the description tab to edit what your task it about.</cmd>
+            </step>
+            <step>
+                <cmd>Select the dollar sign to change if you want time to be billable or not.</cmd>
+            </step>
+            <step>
+                <cmd>Stop and start the timer with the play button.</cmd>
+            </step>
+            <step>
+                <cmd>Manually edit the time by selecting the recorded time.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

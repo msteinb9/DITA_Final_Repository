@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_card_tsk">
+    <title>Leave Workspace</title>
+    <taskbody>
+        <context>These steps will show you how to exit a workspace.</context>
+        <steps>
+            <step>
+                <cmd>Navigate to the workspace page.</cmd>
+            </step>
+            <step>
+                <cmd>Select the workspace you'd like to exit.</cmd>
+            </step>
+            <step>
+                <cmd>Click the exit icon to the right of the settings button.<image
+                        href="../media/Screen%20Shot%202019-12-09%20at%208.09.00%20AM.png"
+                        id="image_fbl_ff4_zjb"/></cmd>
+            </step>
+            <step>
+                <cmd>Select I Understand and click Continue.<image
+                        href="../media/Screen%20Shot%202019-12-09%20at%208.11.10%20AM.png"
+                        id="image_fzh_nf4_zjb"/></cmd>
+            </step>
+            <step>
+                <cmd>Be cautious because once you leave a workspace you cannot come back unless you
+                    are invited.</cmd>
+            </step>
+            <step>
+                <cmd>If you created the workspace it will be deleted forever.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

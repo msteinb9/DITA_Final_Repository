@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="using-a-board">
+    <title>Dashboard</title>
+    <conbody>
+        <p>Your dashboard is the hub of all activity where you can see where you spend your time and
+            what your team is working on.</p>
+        <image href="../media/Screen%20Shot%202019-12-08%20at%2010.52.53%20PM.png"
+            id="image_lyk_sv4_zjb"/>
+    </conbody>
+</concept>

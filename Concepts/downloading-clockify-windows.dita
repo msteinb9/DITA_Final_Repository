@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="download_desktop_apps_tsk">
+    <title>Downloading Clockify App for Windows</title>
+    <taskbody>
+        <context>
+            <p> Materials for PC &amp; Hardware Requirements:<ul id="ul_ekm_vkj_sjb">
+                    <li>Working Laptop/ desktop</li>
+                    <li>Windows OS 10 or higher</li>
+                    <li>Microsoft store account</li>
+                </ul></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>To download the Clockify app on Windows you will need a Microsoft account, if
+                    you do not set one up before proceeding.</cmd>
+            </step>
+            <step>
+                <cmd>Once you have an account you can search for Clockify in the app store. </cmd>
+            </step>
+            <step>
+                <cmd>Find the version you need, if you are using PC download Windows/Pc
+                    version.</cmd>
+            </step>
+            <step>
+                <cmd>Select the download button and the app will begin downloading.</cmd>
+            </step>
+            <step>
+                <cmd>After it is finished downloading run the application and login or signup.
+                </cmd>
+            </step>
+            <step>
+                <cmd>You now have access Clockify from your PC desktop instead of the web
+                    browser.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

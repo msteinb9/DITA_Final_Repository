@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="using-a-board">
+    <title>Time Tracker</title>
+    <conbody>
+        <p>The time tracker allows you to start and stop timer as you or your employees work, or
+            enter hours manually. This is where you and your team can track all time entries. You
+            can also organize time logs here and control what time is billable.</p>
+        <image href="../media/Screen%20Shot%202019-12-08%20at%208.17.11%20PM.png"
+            id="image_tkf_tpk_zjb"/>
+    </conbody>
+</concept>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_card_tsk">
+    <title>Using Templates</title>
+    <taskbody>
+        <context>
+            <p>Making templates allows for quicker workflow especially if you have similar hours
+                each week.<image href="../media/Screen%20Shot%202019-12-08%20at%2010.45.10%20PM.png"
+                    id="image_fcq_jjl_zjb"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Scroll to the bottom of the time sheet.</cmd>
+            </step>
+            <step>
+                <cmd>Copy last weeks template if it is similar to your current week..</cmd>
+            </step>
+            <step>
+                <cmd>If you know the current week will be used often, you can save it as a
+                    template.</cmd>
+            </step>
+            <step>
+                <cmd>The bottom of the timesheet also displays the total hours for the week.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

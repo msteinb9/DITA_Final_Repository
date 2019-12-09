@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_bsg_ptn_vjb">
+    <title>Glossary</title>
+    <shortdesc>Descriptions of keywords used throughout the document.</shortdesc>
+    <refbody> 
+        <section>
+            
+            <ul>
+                
+                <li>Kickoff: to begin</li>
+                <li>Proceed: continue with an action or task</li>
+                <li>Track: make note of</li>
+                <li>Template: previously generated model</li>
+                <li>Workflow: pace at which work is completed</li>             
+            </ul>
+        </section>
+    </refbody>
+</reference>

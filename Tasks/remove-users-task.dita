@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_card_tsk">
+    <title>Remove Users from Projects</title>
+    <taskbody>
+        <context>Instead of going through each project to remove members, you can quickly remove
+            then from their accounts.</context>
+        <steps>
+            <step>
+                <cmd>Navigate to the team page.</cmd>
+            </step>
+            <step>
+                <cmd>Select the team member you'd like to remove.</cmd>
+            </step>
+            <step>
+                <cmd>Under the access tab click on the project you'd like to remove the user
+                    from.</cmd>
+            </step>
+            <step>
+                <cmd>Uncheck the box next to the project name and that user will no longer have
+                    access to that project.<image
+                        href="../media/Screen%20Shot%202019-12-09%20at%207.52.40%20AM.png"
+                        id="image_i1x_bd4_zjb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_card_tsk">
+    <title>Edit Workspaces</title>
+    <taskbody>
+        <context>These steps will show you how to control workspaces.</context>
+        <steps>
+            <step>
+                <cmd>Workspaces creators and admins will have access to editting workspaces.</cmd>
+            </step>
+            <step>
+                <cmd>Navigate to the workspace page.</cmd>
+            </step>
+            <step>
+                <cmd>Select the blue settings button on the right.</cmd>
+            </step>
+            <step>
+                <cmd>Here you can control many settings such as workspace name, hourly pay, and user
+                        access.<image
+                        href="../media/Screen%20Shot%202019-12-09%20at%208.04.59%20AM.png"
+                        id="image_xhk_524_zjb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_card_tsk">
+    <title>Summary Report</title>
+    <taskbody>
+        <context>
+            <p>The summary report is an overview of your tracked time for each day.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Sign in to Clockify.</cmd>
+            </step>
+            <step>
+                <cmd>Hover over the Reports tab.</cmd>
+            </step>
+            <step>
+                <cmd>Select Summary Report.</cmd>
+            </step>
+            <step>
+                <cmd>Hover over the details of your report for more information.<image
+                        href="../media/Screen%20Shot%202019-12-09%20at%208.41.22%20AM.png"
+                        id="image_uc4_lj4_zjb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

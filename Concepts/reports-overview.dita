@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="using-a-board">
+    <title>Reports</title>
+    <conbody>
+        <p>When you first open Clockify your reports will be empty. However, the more you use it,
+            the more useful it will become. Reports will show you how much money you make per
+            project, who your top clients are, what you need to invoice, what activities take most
+            of your time, where your team spands their time, and more.<image
+                href="../media/Screen%20Shot%202019-12-09%20at%208.17.17%20AM.png"
+                id="image_scm_hg4_zjb"/></p>
+    </conbody>
+</concept>

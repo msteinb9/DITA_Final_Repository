@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_list_tsk">
+    <title>Adding Team Members</title>
+    <taskbody>
+        <context> The following steps will show you how to add people to your projects.</context>
+        <steps>
+            <step>
+                <cmd>Navigate to the team page. </cmd>
+            </step>
+            <step>
+                <cmd>Enter the team members email you'd like to add in the bar in the top right
+                    corner.</cmd>
+            </step>
+            <step>
+                <cmd>Select add and your team member will receive an invitation email.<image
+                        href="../media/Screen%20Shot%202019-12-08%20at%2011.16.23%20PM.png"
+                        id="image_jdg_rnl_zjb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

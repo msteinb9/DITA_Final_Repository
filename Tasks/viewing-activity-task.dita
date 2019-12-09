@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_list_tsk">
+    <title>Viewing Your Activity</title>
+    <taskbody>
+        <context> The dashboard shows how much time you've spent on each project.</context>
+        <steps>
+            <step>
+                <cmd>Navigate to the dashboard. </cmd>
+            </step>
+            <step>
+                <cmd>On the left your time will be color coded into a chart to show where you;ve
+                    been spending your time.</cmd>
+            </step>
+            <step>
+                <cmd>On the right your top activities will be ranked in list form.<image
+                        href="../media/Screen%20Shot%202019-12-08%20at%2011.00.34%20PM.png"
+                        id="image_it1_fll_zjb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

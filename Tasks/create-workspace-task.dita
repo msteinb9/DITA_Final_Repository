@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_card_tsk">
+    <title>Create a Workspace</title>
+    <taskbody>
+        <context>Workspaces allow you to separate companies or departments to keep information
+            organized.</context>
+        <steps>
+            <step>
+                <cmd>Navigate to the workspace page.</cmd>
+            </step>
+            <step>
+                <cmd>Select the Create New Workspace button in the top right corner.<image
+                        href="../media/Screen%20Shot%202019-12-09%20at%208.00.16%20AM.png"
+                        id="image_tt2_b24_zjb"/></cmd>
+            </step>
+            <step>
+                <cmd>Assign a name to the workspace.</cmd>
+            </step>
+            <step>
+                <cmd>Invite any users you'd like to have access to the workspace.</cmd>
+            </step>
+            <step>
+                <cmd>You can switch between workspaces by selecting the blue Activate button on the
+                    right.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

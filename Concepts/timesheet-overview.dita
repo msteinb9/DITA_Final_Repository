@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="using-a-board">
+    <title>Timesheet</title>
+    <conbody>
+        <p>The timesheet is a quick and convenient way to look over and edit a full weeks worth of
+            time in only minutes.<image
+                href="../media/Screen%20Shot%202019-12-08%20at%2010.10.38%20PM.png"
+                id="image_b54_w2l_zjb"/></p>
+    </conbody>
+</concept>

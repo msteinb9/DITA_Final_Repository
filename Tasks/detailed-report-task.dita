@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_list_tsk">
+    <title>Detailed Report</title>
+    <taskbody>
+        <context> The detailed report provides a more in depth analysis of your team
+            productivity.</context>
+        <steps>
+            <step>
+                <cmd>Sign in to Clockify. </cmd>
+            </step>
+            <step>
+                <cmd>Hover over the reports tab.</cmd>
+            </step>
+            <step>
+                <cmd>Select Detailed Report.<image
+                        href="../media/Screen%20Shot%202019-12-09%20at%209.00.44%20AM.png"
+                        id="image_ayy_zl4_zjb"/></cmd>
+            </step>
+            <step>
+                <cmd>Here you can view and edit individual time entries.<image
+                        href="../media/Screen%20Shot%202019-12-09%20at%209.03.23%20AM.png"
+                        id="image_ijw_3m4_zjb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

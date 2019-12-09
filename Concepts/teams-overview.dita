@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="using-a-board">
+    <title>Teams</title>
+    <conbody>
+        <p>With an easy to use team tool you can control who has access to each project and how much
+            freedom they have.<image
+                href="../media/Screen%20Shot%202019-12-08%20at%2011.12.02%20PM.png"
+                id="image_qmv_rml_zjb"/></p>
+    </conbody>
+</concept>

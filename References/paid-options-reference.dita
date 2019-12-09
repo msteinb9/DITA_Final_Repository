@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_yhw_gpj_sjb">
+    <title>Clockify Paid Options</title>
+    <refbody>
+        <section id="section_z1z_srj_sjb">
+            <p>Ofcourse you can use Clockify at you leisure for free for as long as you want,
+                however if you want to get more out of the software you have three paid options to
+                fit your needs.<ul id="ul_jhr_wrj_sjb">
+                    <li>Plus - $9.99/mo</li>
+                    <li>Premium - $29.99/mo</li>
+                    <li>Enterprise - $9.99/mo per user</li>
+                </ul></p>
+            <p>
+                <table>
+                    <tgroup cols="3">
+                        <thead>
+                            <row>
+                                <entry>Plus</entry>
+                                <entry>Premium</entry>
+                                <entry>Enterprise</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>Private Time Entries</entry>
+                                <entry>All Plus Features</entry>
+                                <entry>All Premium Features</entry>
+                            </row>
+                            <row>
+                                <entry>Lock Timesheets</entry>
+                                <entry>Add Time for Others</entry>
+                                <entry>Single Sign-On (SSO)</entry>
+                            </row>
+                            <row>
+                                <entry>Required Fields</entry>
+                                <entry>Project Templates</entry>
+                                <entry>Control User Accounts</entry>
+                            </row>
+                            <row>
+                                <entry>Time Rounding</entry>
+                                <entry>Alerts</entry>
+                                <entry>Custom Subdomain</entry>
+                            </row>
+                            <row>
+                                <entry>Time Audit</entry>
+                                <entry>Bulk Edit</entry>
+                                <entry>Training Webinar</entry>
+                            </row>
+                            <row>
+                                <entry>Branded Reports</entry>
+                                <entry>Hide Pages</entry>
+                                <entry>-</entry>
+                            </row>
+                            <row>
+                                <entry>Targets &amp; Reminders</entry>
+                                <entry>Automatic Lock</entry>
+                                <entry>-</entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+        </section>
+        <section id="section_cwn_lrj_sjb">
+            <p>There are also annual options for more savings.</p>
+            <p><object data="https://www.youtube.com/embed/zdAfSLlN9CU" outputclass="iframe">
+                    <param name="allowfullscreen"/>
+                </object></p>
+        </section>
+    </refbody>
+</reference>

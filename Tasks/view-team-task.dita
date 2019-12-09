@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_card_tsk">
+    <title>Viewing Team Activity</title>
+    <taskbody>
+        <context>
+            <p>Edditing your time entries is easy to navigate all in one place.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Navigate to the dashboard and scroll to the bottom.</cmd>
+            </step>
+            <step>
+                <cmd>Here your teams activity will be color coded by project times.</cmd>
+            </step>
+            <step>
+                <cmd>Click on a profile to see a more detailed breakdown.<image
+                        href="../media/Screen%20Shot%202019-12-08%20at%2011.04.46%20PM.png"
+                        id="image_zw1_tll_zjb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

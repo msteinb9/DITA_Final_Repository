@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="resources-ref">
+    <title>Resources</title>
+    <shortdesc>Here are some helpful resources that will further your knowledge of
+        Clockify.</shortdesc>
+    <refbody>
+        <section id="section_t5c_hkz_xjb">
+            <ul id="ul_rwh_mkz_xjb">
+                <li><xref href="https://clockify.me/help/video-tutorials" format="html"
+                        scope="external">Clockify Video Tutorials</xref></li>
+                <li><xref href="https://clockify.me/help/" format="html" scope="external">Clockify
+                        Help Center</xref></li>
+                <li><xref href="https://clockify.me/help/faq" format="html" scope="external"
+                        >Clockify FAQ</xref></li>
+                <li><xref href="https://clockify.me/blog/" format="html" scope="external">Clockify
+                        Blog</xref></li>
+                <li><xref href="https://clockify.me/resources" format="html" scope="external"
+                        >Clockify.me Resources Page</xref></li>
+            </ul>
+        </section>
+    </refbody>
+</reference>

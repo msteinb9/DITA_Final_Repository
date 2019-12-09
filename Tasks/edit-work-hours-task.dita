@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_list_tsk">
+    <title>Edit Work Hours</title>
+    <taskbody>
+        <context> The following steps will show you edit previous hours in the timesheet.</context>
+        <steps>
+            <step>
+                <cmd>Navigate to the timesheet. </cmd>
+            </step>
+            <step>
+                <cmd>Select the project you would like to edit.</cmd>
+            </step>
+            <step>
+                <cmd>Select the time slot under the date and input your desired hours.<image
+                        href="../media/Screen%20Shot%202019-12-08%20at%2010.18.17%20PM.png"
+                        id="image_bc2_bgl_zjb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

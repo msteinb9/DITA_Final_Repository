@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating-account-tsk">
+    <title><?oxy_insert_start author="matt" timestamp="20191208T190122-0500"?>Make An
+        Account<?oxy_insert_end?></title>
+    <taskbody>
+        <context id="context_okv_cgk_zjb">Here we will walk through the sign up process for a
+            Clockify Account</context>
+        <steps>
+            <step>
+                <cmd>Select and open your internet browser.</cmd>
+            </step>
+            <step>
+                <cmd>Search Clockify.me</cmd>
+            </step>
+            <step>
+                <cmd>Click on the sign up button in the top right of the screen or the get started
+                    button in the upper center of the screen.<?oxy_insert_start author="Smoothguy" timestamp="20191118T155830-0500"?>
+                    <?oxy_insert_end?>After selecting one of the buttons you will be brought to a
+                    screen to input your information.</cmd>
+            </step>
+            <step>
+                <cmd>You will then choose to either sign up using your email and creating a new
+                    password, or continuing with your Google
+                    account<?oxy_insert_start author="Smoothguy" timestamp="20191118T160336-0500"?>.<?oxy_insert_end?></cmd>
+            </step>
+            <step>
+                <cmd>Click sign up and you will be brought to the Clockify tracker home page where
+                    you can get started.</cmd>
+            </step>
+            <step>
+                <cmd>A confirmation email will be sent to your provided email address. Confirm your
+                    account when possible.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
+

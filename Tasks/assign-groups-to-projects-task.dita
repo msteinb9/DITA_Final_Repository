@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adding_card_tsk">
+    <title>Assign Groups to Projects</title>
+    <taskbody>
+        <context>With user groups you can assign entire teams to projects, instead of individual
+            people.</context>
+        <steps>
+            <step>
+                <cmd>Navigate to the projects page.</cmd>
+            </step>
+            <step>
+                <cmd>Select your desired project.</cmd>
+            </step>
+            <step>
+                <cmd>Select the Team tab.</cmd>
+            </step>
+            <step>
+                <cmd>Click Add Team Members on the right side of the screen, and select which team
+                    should work on that project.<image
+                        href="../media/Screen%20Shot%202019-12-09%20at%207.35.49%20AM.png"
+                        id="image_g5w_v14_zjb"/></cmd>
+            </step>
+            <step>
+                <cmd>Now everyone in that group has access to that project.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
